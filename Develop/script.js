@@ -6,7 +6,6 @@ var date = dayjs().format('dddd, MMMM D YYYY hh:mm:ssa');
 $("#currentTime").html(date);
 
 $(document).ready(function() {
-  console.log("Ready!")
 })
 
 
