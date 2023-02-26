@@ -2,7 +2,7 @@
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
 var saveButton = document.querySelector(".saveBtn")
-var date = dayjs().format('dddd, MMMM D YYYY hh:mm:ssa');
+var date = dayjs().format('dddd, MMMM D YYYY hh:mma');
 $("#currentTime").html(date);
 
 $(document).ready(function() {
