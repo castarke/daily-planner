@@ -22,4 +22,5 @@ URL to daily planner: https://castarke.github.io/daily-planner/
 
 Screenshot:
 
-![daily planner screenshot](https://user-images.githubusercontent.com/122697165/222021858-a6877a12-7641-4243-b026-1392d55b8e27.png)
+
+![daily planner screenshot](https://user-images.githubusercontent.com/122697165/222022581-c5a1abb1-c775-4468-8559-5af07758f523.png)
