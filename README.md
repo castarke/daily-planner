@@ -6,8 +6,6 @@ I have created a daily planner to help keep track of plans and tasks through out
 
 ## Table of Contents 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
     -Assets
         -daily.planner.screenshot.png
     -Develop
