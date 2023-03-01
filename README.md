@@ -21,3 +21,5 @@ If your README is long, add a table of contents to make it easy for users to fin
 URL to daily planner: https://castarke.github.io/daily-planner/
 
 Screenshot:
+
+![daily planner screenshot](https://user-images.githubusercontent.com/122697165/222021858-a6877a12-7641-4243-b026-1392d55b8e27.png)
