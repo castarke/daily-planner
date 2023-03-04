@@ -21,6 +21,7 @@ function colorChange() {
     $(this).removeClass("past");
     $(this).removeClass("future");
     $(this).addClass("present") ;
+  }
   // changing color to gray for past
   else if (eventTime < time) {
     $(this).removeClass("future");
